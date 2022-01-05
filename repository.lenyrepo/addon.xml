@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon
+		id="repository.lenyrepo" name="[B][COLOR white]Repositorio[/COLOR]: [COLOR aquamarine]LENY[/COLOR][COLOR white]REPO[/COLOR][/B]"
+		version="1.05"
+		provider-name="[COLOR aquamarine]LENYNHA[/COLOR]">
+
+		<extension point="xbmc.addon.repository" name="Nome Repository">
+	
+			<dir>
+            <info compressed="false">https://raw.githubusercontent.com/terahostpb/repo/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/terahostpb/repo/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/terahostpb/repo/master/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>LENY REPO</summary>
+        <description>AQUI VOCÊ ENCONTRA O MELHORES ADDONS SEMPRE ATUALIZADOS</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
