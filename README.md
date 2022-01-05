@@ -1,4 +1,4 @@
-# <a href="repository.TeraHostREPO.zip">DOWNLOADDO REPOSITÓRIO</a>
+# <a href="repository.TeraHostREPO.zip">DOWNLOAD DO REPOSITÓRIO</a>
 
 Instruções para a adição no gestor:
 
